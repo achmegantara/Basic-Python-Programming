@@ -18,3 +18,11 @@ if total_belanja > 100000:
 #cetak struk
 print("total yang harus dibayar : Rp %s " % bayar)
 print("Terima kasih telah berbelanja")
+
+#contoh case 2
+umur = int(input("Berapa umur kamu : "))
+
+if umur >= 18:
+    print("Kamu boleh membuat sim")
+else:
+    print("Kamu tidak boleh membuat sim")
