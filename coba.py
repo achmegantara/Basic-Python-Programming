@@ -1,15 +1,3 @@
-# a = "achmad"
-# li = []
-# for i in range(len(a)):
-#     li.append(a[i])
-
-# print(li)
-
-# a = [1, 2, 3, 4, 5]
-# b = a[3:]
-
-# print(b)1
-
 X = int(input())
 Y = int(input())
 Z = int(input())
