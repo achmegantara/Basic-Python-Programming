@@ -3,15 +3,12 @@
 #         name = input()
 #         score = float(input())
 
-# print(name)
-# print(score)
-
-li = [] 
+li = []
 n = int(input("Enter the number of elements: "))
-for i in range(1, n+1): 
-    elem = int(input("Enter the elements: ")) 
-    li.append(elem) 
-li.sort() 
+for i in range(1, n+1):
+    elem = int(input("Enter the elements: "))
+    li.append(elem)
+li.sort()
 
-print("The sorted list: ", li) 
-print("The second smallest value of this list: ",li[1])
+print("The sorted list: ", li)
+print("The second smallest value of this list: ", li[1])
