@@ -1,8 +1,3 @@
-# if __name__ == '__main__':
-#     for _ in range(int(input())):
-#         name = input()
-#         score = float(input())
-
 li = []
 n = int(input("Enter the number of elements: "))
 for i in range(1, n+1):
