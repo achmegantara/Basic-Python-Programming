@@ -17,3 +17,4 @@ intB = int(newB, 2)
 print(b)
 print(newB)
 print(intB)
+aaaaa
