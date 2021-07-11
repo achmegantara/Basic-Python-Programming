@@ -5,6 +5,7 @@ def returnMoney(price, pay):
         nomPayments = []
         nominal = [100000, 20000, 5000, 2000, 1000]
         i = 0
+        #divide nominal
         while(i < len(nominal)):
             if returnPayments >= nominal[i]:
                 nomPayments.append(nominal[i])
