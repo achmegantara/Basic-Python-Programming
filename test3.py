@@ -27,3 +27,6 @@ if __name__ == '__main__':
     result = findTotalWays(N, S)
 
     print(str(result) + '\n')
+    
+    #
+    
