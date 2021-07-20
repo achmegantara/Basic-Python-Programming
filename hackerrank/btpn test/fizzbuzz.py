@@ -1,3 +1,4 @@
+# test
 # def getScore(word):
 #     # Write your code here
 #     newWord = list(word.lower())
