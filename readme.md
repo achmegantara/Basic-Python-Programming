@@ -5,3 +5,4 @@
 3. SAMPLE CODING TEST FOR COMPANY
   - Decimal to Binary
   - Calculate ways
+  - lexico
