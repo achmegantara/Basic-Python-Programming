@@ -6,3 +6,4 @@
   - Decimal to Binary
   - Calculate ways
   - lexico
+  - barisan bertopi
