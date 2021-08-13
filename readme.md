@@ -8,3 +8,4 @@
   - lexico
   - barisan bertopi
   - RunnerUp
+  - secondlowestgrade
