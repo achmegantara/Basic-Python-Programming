@@ -9,3 +9,4 @@
   - barisan bertopi
   - RunnerUp
   - secondlowestgrade
+  - penalty
