@@ -10,3 +10,4 @@
   - RunnerUp
   - secondlowestgrade
   - penalty
+  - tripplets
