@@ -16,3 +16,4 @@ C. Company Test
   - penalty
   - tripplets
   - return money
+  - listtoString
