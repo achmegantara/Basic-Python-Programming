@@ -4,10 +4,10 @@
 2. HACKERRANK SIMPLE PROBLEM
 3. SAMPLE CODING TEST FOR COMPANY
 
-A. Case Problem
-- GCD & 
-B. HackerRank
-C. Company Test
+### A. Case Problem
+  - GCD & 
+### B. HackerRank
+### C. Company Test
   - Decimal to Binary
   - Calculate ways
   - lexico
