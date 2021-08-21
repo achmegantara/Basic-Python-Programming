@@ -5,7 +5,8 @@
 3. SAMPLE CODING TEST FOR COMPANY
 
 ### A. Case Problem
-  - GCD & 
+  - GCD & FPB
+  - Add Two Numbers
 ### B. HackerRank
 ### C. Company Test
   - Decimal to Binary
