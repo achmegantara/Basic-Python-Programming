@@ -7,6 +7,7 @@
 ### A. Case Problem
   - GCD & FPB
   - Add Two Numbers
+  - Area 2 dimensions
 ### B. HackerRank
 ### C. Company Test
   - Decimal to Binary
