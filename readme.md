@@ -8,7 +8,8 @@
   - GCD & FPB
   - Add Two Numbers
   - Area 2 dimensions
-  - calculator
+  - Calculator
+  - Factor Number
 ### B. HackerRank
 ### C. Company Test
   - Decimal to Binary
