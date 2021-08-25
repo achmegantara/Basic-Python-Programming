@@ -10,6 +10,7 @@
   - Area 2 dimensions
   - Calculator
   - Factor Number
+  - Final Score
 ### B. HackerRank
 ### C. Company Test
   - Decimal to Binary
