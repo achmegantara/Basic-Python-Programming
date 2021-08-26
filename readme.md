@@ -11,6 +11,7 @@
   - Calculator
   - Factor Number
   - Final Score
+  - Penghitungan Zakat
 ### B. HackerRank
 ### C. Company Test
   - Decimal to Binary
