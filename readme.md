@@ -12,6 +12,7 @@
   - Factor Number
   - Final Score
   - Penghitungan Zakat
+  - Prime Number
 ### B. HackerRank
 ### C. Company Test
   - Decimal to Binary
