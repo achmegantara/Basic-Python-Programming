@@ -14,13 +14,13 @@
   - Penghitungan Zakat
   - Prime Number
 ### B. HackerRank
-### C. Company Test
   - Decimal to Binary
   - Calculate ways
   - lexico
   - barisan bertopi
   - RunnerUp
   - secondlowestgrade
+### C. Company Test
   - penalty
   - tripplets
   - return money
