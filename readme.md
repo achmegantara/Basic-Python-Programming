@@ -25,3 +25,4 @@
   - tripplets
   - return money
   - listtoString
+  - fizzbuzz
