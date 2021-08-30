@@ -4,7 +4,8 @@
 2. HACKERRANK SIMPLE PROBLEM
 3. SAMPLE CODING TEST FOR COMPANY
 
-### A. Case Problem
+### A. Algorithm 
+### B. Case Problem
   - GCD & FPB
   - Add Two Numbers
   - Area 2 dimensions
@@ -13,14 +14,14 @@
   - Final Score
   - Penghitungan Zakat
   - Prime Number
-### B. HackerRank
+### C. HackerRank
   - Decimal to Binary
   - Calculate ways
   - lexico
   - barisan bertopi
   - RunnerUp
   - secondlowestgrade
-### C. Company Test
+### D. Company Test
   - penalty
   - tripplets
   - return money
