@@ -5,6 +5,8 @@
 3. SAMPLE CODING TEST FOR COMPANY
 
 ### A. Algorithm 
+  - Heap Sort
+  - 
 ### B. Case Problem
   - GCD & FPB
   - Add Two Numbers
