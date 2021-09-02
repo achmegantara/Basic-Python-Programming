@@ -7,6 +7,7 @@
 ### A. Algorithm 
   - Heap Sort
   - Buble sort
+  - Comb Sort
 ### B. Case Problem
   - GCD & FPB
   - Add Two Numbers
