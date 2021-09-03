@@ -8,6 +8,7 @@
   - Heap Sort
   - Buble sort
   - Comb Sort
+  - Insertion Sort
 ### B. Case Problem
   - GCD & FPB
   - Add Two Numbers
