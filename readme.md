@@ -4,6 +4,8 @@
 2. HACKERRANK SIMPLE PROBLEM
 3. SAMPLE CODING TEST FOR COMPANY
 
+### 0. Basic
+
 ### A. Algorithm 
   - Heap Sort
   - Buble sort
