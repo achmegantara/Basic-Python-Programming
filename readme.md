@@ -4,7 +4,8 @@
 2. HACKERRANK SIMPLE PROBLEM
 3. SAMPLE CODING TEST FOR COMPANY
 
-### 0. Basic
+### 0. Basic  
+  - Input Output
 
 ### A. Algorithm 
   - Heap Sort
