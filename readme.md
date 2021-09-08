@@ -8,6 +8,7 @@
   - Input Output
   - Operator
   - Percabangan
+  - Perulangan
 
 ### A. Algorithm 
   - Heap Sort
