@@ -7,6 +7,7 @@
 ### 0. Basic  
   - Input Output
   - Operator
+  - Percabangan
 
 ### A. Algorithm 
   - Heap Sort
