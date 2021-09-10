@@ -9,6 +9,7 @@
   - Operator
   - Percabangan
   - Perulangan
+  - Read Write
 
 ### A. Algorithm 
   - Heap Sort
