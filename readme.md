@@ -10,6 +10,7 @@
   - Percabangan
   - Perulangan
   - Read Write
+  - Variabel - tipe data
 
 ### A. Algorithm 
   - Heap Sort
