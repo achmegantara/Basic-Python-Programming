@@ -11,6 +11,7 @@
   - Perulangan
   - Read Write
   - Variabel - tipe data
+  - Data tuple
 
 ### A. Algorithm 
   - Heap Sort
