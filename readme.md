@@ -12,6 +12,7 @@
   - Read Write
   - Variabel - tipe data
   - Data tuple
+  - List
 
 ### A. Algorithm 
   - Heap Sort
