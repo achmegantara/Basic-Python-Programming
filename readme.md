@@ -13,6 +13,7 @@
   - Variabel - tipe data
   - Data tuple
   - List
+  - List Dictionary
   - Args-Kwrgs
   - Break-continue-pass
   - Fungsi prosedur
