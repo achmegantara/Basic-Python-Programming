@@ -17,6 +17,7 @@
   - Args-Kwrgs
   - Break-continue-pass
   - Fungsi prosedur
+  - Function arguments
 
 ### A. Algorithm 
   - Heap Sort
