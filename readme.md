@@ -16,7 +16,7 @@
   - List-Dictionary
   - Args-Kwrgs
   - Break-continue-pass
-  - Fungsi prosedur
+  - Function prosedur
   - Function arguments
 
 ### A. Algorithm 
