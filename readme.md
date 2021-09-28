@@ -9,7 +9,7 @@
   - Operator
   - Percabangan
   - Perulangan
-  - Read Write
+  - Read & Write
   - Variabel - tipe data
   - Data tuple
   - List
