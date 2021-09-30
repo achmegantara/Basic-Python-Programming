@@ -10,7 +10,7 @@
   - Percabangan
   - Perulangan
   - Read & Write
-  - Variabel - tipe data
+  - Variabel-tipe data
   - Data tuple
   - List
   - List-Dictionary
