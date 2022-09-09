@@ -2,4 +2,4 @@
 #jika kelipatan 5 sama dengan "buzz"
 #jika kelipatan 3 dan 5 sama dengan "fizzbuzz"
 
-x = 
+x = fizz
